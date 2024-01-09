@@ -1,9 +1,9 @@
-# day3and4
+# folderMoverForME
 
 this is simple console application  
 be careful of using this program (file move operation exist) 
 
-** how to use 
+## how to use  
 setting the path like "D:\a\test\"
 
 and extract the file list from square Brackets  
